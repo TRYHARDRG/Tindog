@@ -1,2 +1,1 @@
-# Tindog
-this is from a course that i follow 
+TinDog Starting Files
